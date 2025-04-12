@@ -1,0 +1,63 @@
+[
+    {
+      "id": 1,
+      "cover": "https://i.ibb.co.com/k2CvNPQN/Flux-Dev-A-haunting-muted-illustration-depicting-a-dimly-lit-o-0.jpg",
+      "title": "The Whispering Shadows: A Dark Tale of Secrets, Betrayal, and the Unseen Forces That Lurk in the Corners of Our Minds",
+      "author": "Emily Rivers",
+      "image": "https://i.ibb.co.com/cSypBvbV/boy1.png",
+      "posted_date": "March 25, 2025",
+      "reading_time": 45,
+      "hashtags": ["Mystery", "Thriller", "Suspense", "BookLovers"]
+    },
+    {
+      "id": 2,
+      "cover": "https://i.ibb.co.com/XvRL27J/glenn-carstens-peters-npx-XWg-Q33-ZQ-unsplash.jpg",
+      "title": "Journey Beyond the Stars: An Epic Voyage Through Unknown Galaxies, Alien Civilizations, and the Infinite Mysteries of the Cosmos",
+      "author": "Alexander Gray",
+      "image": "https://i.ibb.co.com/sdmHssP7/boy2.jpg",
+      "posted_date": "March 28, 2025",
+      "reading_time": 30,
+      "hashtags": ["SciFi", "Adventure", "SpaceExploration", "Fiction"]
+    },
+    {
+      "id": 3,
+      "cover": "https://i.ibb.co.com/MxtwkNJy/top-view-abstract-innovation-composition.jpg",
+      "title": "Whispers of the Past: A Haunting Love Story That Transcends Time, Where Forgotten Memories Resurface and Change Lives Forever",
+      "author": "Sarah Langston",
+      "image": "https://i.ibb.co.com/cSypBvbV/boy1.png",
+      "posted_date": "March 20, 2025",
+      "reading_time": 60,
+      "hashtags": ["HistoricalFiction", "Romance", "TimeTravel", "Drama"]
+    },
+    {
+      "id": 4,
+      "cover": "https://i.ibb.co.com/XvRL27J/glenn-carstens-peters-npx-XWg-Q33-ZQ-unsplash.jpg",
+      "title": "The Art of Serenity: Mastering Inner Peace, Mindfulness, and the Timeless Wisdom That Leads to a Truly Fulfilling Life",
+      "author": "Nathaniel Brooks",
+      "image": "https://i.ibb.co.com/sdmHssP7/boy2.jpg",
+      "posted_date": "March 22, 2025",
+      "reading_time": 35,
+      "hashtags": ["SelfHelp", "Wellness", "Mindfulness", "Peace"]
+    },
+    {
+      "id": 5,
+      "cover": "https://i.ibb.co.com/MxtwkNJy/top-view-abstract-innovation-composition.jpg",
+      "title": "The Last Kingdom: A Saga of War, Honor, and the Final Battle for a Realm on the Brink of Eternal Darkness",
+      "author": "Brian Stone",
+      "image": "https://i.ibb.co.com/cSypBvbV/boy1.png",
+      "posted_date": "March 30, 2025",
+      "reading_time": 50,
+      "hashtags": ["Fantasy", "Epic", "Adventure", "Kingdoms"]
+    },
+    {
+      "id": 6,
+      "cover": "https://i.ibb.co.com/k2CvNPQN/Flux-Dev-A-haunting-muted-illustration-depicting-a-dimly-lit-o-0.jpg",
+      "title": "The Whispering Shadows: A Dark Tale of Secrets, Betrayal, and the Unseen Forces That Lurk in the Corners of Our Minds",
+      "author": "Emily Rivers",
+      "image": "https://i.ibb.co.com/cSypBvbV/boy1.png",
+      "posted_date": "March 25, 2025",
+      "reading_time": 45,
+      "hashtags": ["Mystery", "Thriller", "Suspense", "BookLovers"]
+    }
+    
+  ]
